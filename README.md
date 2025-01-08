@@ -1,5 +1,5 @@
 # Pramodh Gudla
-### 💻 Software Engineer | Data Scientist | Java & Python Developer | Microservices Enthusiast | Passionate About Technology 🌱
+### 💻 Software Engineer | Data Scientist | Java & Python Developer | Passionate About Technology 🌱
 > Denton, Texas  
 > 📧 gudlapramodh2@gmail.com | ☎ +1 (940) 977-5287  
 > [LinkedIn](https://www.linkedin.com/in/Pramodh) | [GitHub](https://github.com/Pramodh-Gudla)
